@@ -1,0 +1,16 @@
+{
+  "name": "qr-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "qr-code.js",
+  "dependencies": {
+    "http-server": "^0.11.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "http-server ./src --cors --cache 0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
